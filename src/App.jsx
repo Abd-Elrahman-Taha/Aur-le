@@ -16,13 +16,7 @@ export default function App() {
     <div className="relative min-h-screen bg-obsidian text-cream selection:bg-gold-500/30 selection:text-cream noise-overlay font-inter antialiased overflow-x-hidden">
       
       {/* Cinematic fixed background image with gradient overlays */}
-      <div 
-        className="fixed inset-0 w-full h-full bg-cover bg-center bg-no-repeat z-0" 
-        style={{ 
-          backgroundImage: "url('/Images/backgorund.png')",
-          backgroundAttachment: 'fixed'
-        }}
-      >
+      <div className="fixed inset-0 w-full h-full z-0 cinematic-bg">
         {/* Subtle dark gradient overlay to improve text readability */}
         <div className="absolute inset-0 bg-gradient-to-b from-black/80 via-black/85 to-black/90 z-10 pointer-events-none" />
         

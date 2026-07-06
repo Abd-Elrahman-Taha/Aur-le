@@ -260,7 +260,27 @@ body {
   }
 
   .star { color: #C9A84C; }
+
+  /* ─── Cinematic Background ───────────────────────────── */
+  .cinematic-bg {
+    background-image: url('/Images/backgorund.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    background-attachment: fixed;
+  }
 }
+
+@media (max-width: 767px) {
+  .cinematic-bg {
+    /* Prevent performance bottlenecks and iOS zoom-bugs by disabling fixed attachment */
+    background-attachment: scroll !important;
+    /* Lock the focal point exactly to middle-center */
+    background-position: center center !important;
+    background-size: cover !important;
+  }
+}
+
 
 /* ─── Shimmer animation ───────────────────────────────── */
 @keyframes shimmer {
