@@ -264,11 +264,20 @@ export default function Menu() {
     setTimeout(() => { setActiveCategory(cat); setIsTransitioning(false); }, 220);
   }, [activeCategory]);
 
-  // Scroll active tab into view
+  // Scroll active tab into view horizontally without scrolling the main window vertically
   useEffect(() => {
     if (tabsRef.current) {
       const btn = tabsRef.current.querySelector('.category-pill.active');
-      btn?.scrollIntoView({ behavior: 'smooth', inline: 'center', block: 'nearest' });
+      if (btn) {
+        const container = tabsRef.current;
+        const containerWidth = container.clientWidth;
+        const btnOffset = btn.offsetLeft;
+        const btnWidth = btn.clientWidth;
+        container.scrollTo({
+          left: btnOffset - (containerWidth / 2) + (btnWidth / 2),
+          behavior: 'smooth'
+        });
+      }
     }
   }, [activeCategory]);
 
