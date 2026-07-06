@@ -1,0 +1,1332 @@
+[
+  {
+    "name": "Amber Truffle Arancini",
+    "category": "Starters",
+    "description": "Crisp arborio rice spheres filled with wild porcini mushrooms and molten fontina cheese, finished with shaved summer truffles and aged balsamic.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1608897013039-887f21d8c804?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Foie Gras Torchon",
+    "category": "Starters",
+    "description": "Silky slow-cooked duck foie gras, wild berry compote, house-made brioche toast, and delicate gold leaf flakes for an indulgent opener.",
+    "price": "$38",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Caviar Blinis",
+    "category": "Starters",
+    "description": "Premium Ossetra caviar served on warm buckwheat pancakes, paired with crème fraîche and freshly chopped chives.",
+    "price": "$85",
+    "image": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Tuna Tartare",
+    "category": "Starters",
+    "description": "Diced yellowfin tuna, silky avocado mousse, soy-ginger emulsion, sesame oil, and crisp wonton crackers.",
+    "price": "$29",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Beef Carpaccio",
+    "category": "Starters",
+    "description": "Paper-thin prime beef tenderloin, wild rocket, brined capers, extra virgin Sicilian olive oil, and shaved aged Parmigiano-Reggiano.",
+    "price": "$34",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Oysters Rockefeller",
+    "category": "Starters",
+    "description": "Six fresh half-shell oysters baked with creamed spinach, hollandaise glaze, and toasted herb breadcrumbs.",
+    "price": "$36",
+    "image": "https://images.unsplash.com/photo-1553618551-fba689030290?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Escargots au Beurre",
+    "category": "Starters",
+    "description": "Classic Burgundy snails baked in wild garlic and parsley butter, served with toasted sourdough baguette slices.",
+    "price": "$32",
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Burrata Caprese Tower",
+    "category": "Starters",
+    "description": "Hand-stretched burrata, vine-ripened heirloom tomatoes, fresh basil oil, 18-year aged balsamic, Maldon sea salt.",
+    "price": "$28",
+    "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Duck Spring Rolls",
+    "category": "Starters",
+    "description": "Crisp rice paper rolls filled with confit duck, shiitake mushrooms, and glass noodles, served with a plum-hoisin dip.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1498654896293-37aacf113fd9?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Smoked Salmon Rillette",
+    "category": "Starters",
+    "description": "Creamy smoked Atlantic salmon, dill crème fraîche, capers, shallots, and toasted sourdough points.",
+    "price": "$31",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Crisp Caesar Salad",
+    "category": "Salads",
+    "description": "Tender romaine hearts, house-made garlic croutons, 36-month aged Parmigiano-Reggiano, emulsified truffle Caesar dressing.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Burrata Heirloom Salad",
+    "category": "Salads",
+    "description": "Creamy burrata, multi-colored heirloom tomatoes, aromatic basil pesto, aged balsamic reduction, toasted pine nuts.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1592417817098-8f3d6eb19675?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Warm Goat Cheese Salad",
+    "category": "Salads",
+    "description": "Crisp Belgian endives, warm pecan-crusted goat cheese medallion, wild honey-walnut vinaigrette, sliced Granny Smith apples.",
+    "price": "$25",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Crab & Avocado Salad",
+    "category": "Salads",
+    "description": "Jumbo lump crab meat, fan-cut avocado, citrus segments, micro cilantro, and a light lime-jalapeño dressing.",
+    "price": "$32",
+    "image": "https://images.unsplash.com/photo-1540420773420-3366772f4999?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Quinoa Pomegranate Salad",
+    "category": "Salads",
+    "description": "Tri-color quinoa, jeweled pomegranate arils, roasted sweet potato, toasted pumpkin seeds, orange-lemon vinaigrette.",
+    "price": "$22",
+    "image": "https://images.unsplash.com/photo-1505253716362-afaea1d3d1af?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Mediterranean Octopus Salad",
+    "category": "Salads",
+    "description": "Grilled charred octopus tentacles, heirloom cherry tomatoes, kalamata olives, fresh oregano, and a lemon-caper vinaigrette.",
+    "price": "$34",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Niçoise Classique",
+    "category": "Salads",
+    "description": "Seared rare ahi tuna, French haricots verts, fingerling potatoes, soft quail eggs, and anchovy-Dijon dressing.",
+    "price": "$28",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Roasted Pear & Gorgonzola",
+    "category": "Salads",
+    "description": "Caramelized Bosc pear halves, bold gorgonzola crumbles, candied walnuts, baby mixed greens, and port wine reduction.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Arugula Proscuitto Salad",
+    "category": "Salads",
+    "description": "Peppery wild arugula, thin-sliced Prosciutto di Parma, shaved Pecorino Romano, toasted almonds, lemon-EVOO dressing.",
+    "price": "$27",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Lobster Bisque",
+    "category": "Soups",
+    "description": "Velvety Maine lobster cream enriched with Cognac, topped with a poached lobster medallion and fresh tarragon oil.",
+    "price": "$28",
+    "image": "https://images.unsplash.com/photo-1547592165-e1d17f1a0655?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "French Onion Soup",
+    "category": "Soups",
+    "description": "Deeply caramelized sweet onions in rich beef bone broth, crowned with a toasted Gruyère and baguette croûton.",
+    "price": "$18",
+    "image": "https://images.unsplash.com/photo-1548943487-a2e4e43b4853?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Wild Mushroom Velouté",
+    "category": "Soups",
+    "description": "Silky purée of chanterelle and porcini mushrooms, fresh thyme infusion, finished with a swirl of truffle cream.",
+    "price": "$20",
+    "image": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Truffle Cauliflower Cream",
+    "category": "Soups",
+    "description": "Roasted cauliflower florets blended into a silky cream, finished with white truffle oil and crispy parsnip chips.",
+    "price": "$19",
+    "image": "https://images.unsplash.com/photo-1571167530149-c1105da4b1e5?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Bouillabaisse Provençale",
+    "category": "Soups",
+    "description": "Traditional Marseille seafood stew with mussels, clams, shrimp, and fish, served with rouille and grilled sourdough.",
+    "price": "$32",
+    "image": "https://images.unsplash.com/photo-1611489142329-5f62cfa43e6e?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Roasted Tomato Gazpacho",
+    "category": "Soups",
+    "description": "Chilled, slow-roasted heirloom tomatoes, cucumber, green pepper, Spanish sherry vinegar, micro basil, and olive oil.",
+    "price": "$16",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Roasted Butternut Squash Soup",
+    "category": "Soups",
+    "description": "Velvety butternut squash, warm cinnamon and nutmeg, coconut cream swirl, toasted pepitas and crispy sage leaves.",
+    "price": "$17",
+    "image": "https://images.unsplash.com/photo-1540189549336-e6e99c3679fe?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Saffron-Infused Seafood Chowder",
+    "category": "Soups",
+    "description": "Creamy New England-style chowder with fresh clams, sweet corn, saffron, smoked bacon, and house-baked oyster crackers.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1547592166-23ac45744acd?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Boeuf Bourguignon Soup",
+    "category": "Soups",
+    "description": "Slow-braised wagyu beef, pearl onions, and lardons in a deep Burgundy wine broth, garnished with fresh thyme.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1607532941433-304659e8198a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "The Aurèle Classic",
+    "category": "Burgers",
+    "description": "200g dry-aged prime beef patty, aged cheddar, house-cured bacon, heirloom tomato, gem lettuce, signature gold sauce, brioche bun.",
+    "price": "$28",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Black Truffle Wagyu Burger",
+    "category": "Burgers",
+    "description": "A5 Wagyu beef, melted raclette, black truffle aioli, caramelized shallots, arugula, and house-made truffle fries.",
+    "price": "$52",
+    "image": "https://images.unsplash.com/photo-1553979459-d2229ba7433b?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Smoked Bourbon BBQ Burger",
+    "category": "Burgers",
+    "description": "Smoked brisket patty, bourbon BBQ glaze, crispy tobacco onion rings, smoked gouda, house pickles, toasted sesame bun.",
+    "price": "$34",
+    "image": "https://images.unsplash.com/photo-1550317138-10000687a72b?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Wild Mushroom & Brie Burger",
+    "category": "Burgers",
+    "description": "Sautéed wild mushrooms, melted Brie de Meaux, garlic aioli, caramelized onions, watercress, walnut brioche bun.",
+    "price": "$30",
+    "image": "https://images.unsplash.com/photo-1586816001966-79b736744398?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Crispy Buttermilk Chicken Burger",
+    "category": "Burgers",
+    "description": "48-hour buttermilk-marinated fried chicken, honey-sriracha glaze, house slaw, dill pickles, toasted potato bun.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Lobster Royale Burger",
+    "category": "Burgers",
+    "description": "Butter-poached Maine lobster, lemon-tarragon mayo, baby gem, micro herbs, served on a charcoal-dusted brioche.",
+    "price": "$48",
+    "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Plant-Based Gourmet Burger",
+    "category": "Burgers",
+    "description": "House-made lentil and roasted beet patty, vegan cheddar, avocado smash, tomato, pickled red onion, on a seeded bun.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Vegetarian"]
+  },
+  {
+    "name": "Double Smash Cheeseburger",
+    "category": "Burgers",
+    "description": "Two smashed dry-aged beef patties, double American cheese, special sauce, shredded lettuce, diced onion, house dill pickles.",
+    "price": "$32",
+    "image": "https://images.unsplash.com/photo-1561758033-d89a9ad46330?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Tex-Mex Jalapeño Burger",
+    "category": "Burgers",
+    "description": "Angus beef, sliced fresh jalapeños, pepper jack cheese, pico de gallo, sour cream, and chipotle mayo on a toasted bun.",
+    "price": "$29",
+    "image": "https://images.unsplash.com/photo-1588315028695-a30e5cdd67c4?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Margherita d'Oro",
+    "category": "Pizza",
+    "description": "San Marzano DOP tomato sauce, hand-stretched mozzarella fior di latte, fresh basil, extra virgin olive oil, baked in a wood-fired oven.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1574071318508-1cdbab80d002?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Black Truffle & Taleggio Pizza",
+    "category": "Pizza",
+    "description": "Creamy Taleggio, shaved black truffle, wild mushrooms, rosemary-infused olive oil, garnished with micro arugula.",
+    "price": "$42",
+    "image": "https://images.unsplash.com/photo-1513104890138-7c749659a591?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Prosciutto & Fig Pizza",
+    "category": "Pizza",
+    "description": "San Marzano base, whipped ricotta, fresh Prosciutto di Parma, honey-glazed mission figs, gorgonzola, toasted walnuts.",
+    "price": "$34",
+    "image": "https://images.unsplash.com/photo-1565299624946-b28f40a0ae38?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Diavola Spicy Salami",
+    "category": "Pizza",
+    "description": "Spicy Calabrian salami, crushed San Marzano, smoked fior di latte, Fresno chilis, chili-infused olive oil drizzle.",
+    "price": "$30",
+    "image": "https://images.unsplash.com/photo-1534308983496-4fabb1a015ee?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Burrata & Stracciatella Pizza",
+    "category": "Pizza",
+    "description": "Garlic cream base, whole burrata at center, stracciatella, sun-dried tomatoes, basil oil, cracked black pepper.",
+    "price": "$36",
+    "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Smoked Duck & Cherry Pizza",
+    "category": "Pizza",
+    "description": "Slow-smoked duck breast, sour cherry compote, caramelized red onion, Danish goat cheese, fresh rosemary.",
+    "price": "$38",
+    "image": "https://images.unsplash.com/photo-1588315028695-a30e5cdd67c4?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Four Cheese Bianca",
+    "category": "Pizza",
+    "description": "Garlic-olive oil base, mozzarella, fontina, gorgonzola, aged Parmigiano, finished with honey and fresh walnuts.",
+    "price": "$28",
+    "image": "https://images.unsplash.com/photo-1604382355076-af4b0eb60143?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Seafood Royale Pizza",
+    "category": "Pizza",
+    "description": "Lobster, king shrimp, baby squid, cherry tomatoes, fresh chili, lemon zest, garlic olive oil on a thin crispy crust.",
+    "price": "$46",
+    "image": "https://images.unsplash.com/photo-1579751626657-72bc17010498?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Spinach & Artichoke White Pizza",
+    "category": "Pizza",
+    "description": "Garlic béchamel, wilted spinach, marinated artichoke hearts, ricotta dollops, mozzarella, toasted pine nuts.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1571407970349-bc81e7e96d47?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Tagliatelle al Tartufo",
+    "category": "Pasta",
+    "description": "Hand-cut egg tagliatelle, lavish black truffle butter sauce, toasted breadcrumbs, and generous shaved truffle.",
+    "price": "$48",
+    "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Lobster Linguine",
+    "category": "Pasta",
+    "description": "Bronze-die linguine, butter-poached Maine lobster, cherry tomatoes, Cognac bisque reduction, micro basil.",
+    "price": "$52",
+    "image": "https://images.unsplash.com/photo-1612182180791-cedd8a96aed4?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Cacio e Pepe Royale",
+    "category": "Pasta",
+    "description": "Tonnarelli pasta, Pecorino Romano DOP, aged Parmigiano-Reggiano, and an intensely fragrant cracked black pepper sauce.",
+    "price": "$28",
+    "image": "https://images.unsplash.com/photo-1621996346565-e3dbc646d9a9?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Wagyu Bolognese",
+    "category": "Pasta",
+    "description": "12-hour slow-braised A5 Wagyu beef and veal ragù, rigatoni pasta, fresh plum tomatoes, aged Parmigiano.",
+    "price": "$42",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Squid Ink Spaghetti",
+    "category": "Pasta",
+    "description": "Dramatic black squid ink spaghetti, pan-seared baby squid, garlic-chili oil, cherry tomatoes, gremolata.",
+    "price": "$36",
+    "image": "https://images.unsplash.com/photo-1611590027211-b954fd4b8e37?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Pappardelle Wild Boar",
+    "category": "Pasta",
+    "description": "Wide pappardelle ribbons, slow-braised wild boar ragù with Barolo wine, juniper, and rosemary, topped with pecorino.",
+    "price": "$44",
+    "image": "https://images.unsplash.com/photo-1473093295043-cdd812d0e601?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Ricotta Spinach Gnudi",
+    "category": "Pasta",
+    "description": "Light-as-air ricotta and spinach gnudi dumplings, sage-brown butter, toasted hazelnuts, aged Parmigiano snow.",
+    "price": "$30",
+    "image": "https://images.unsplash.com/photo-1567608198472-6796ad9466a2?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Burrata Ravioli di Wagyu",
+    "category": "Pasta",
+    "description": "Hand-rolled burrata-filled ravioli atop a Wagyu beef short rib ragù with tomato-basil reduction and crispy capers.",
+    "price": "$46",
+    "image": "https://images.unsplash.com/photo-1555949258-eb67b1ef0ceb?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Spaghetti alle Vongole",
+    "category": "Pasta",
+    "description": "Spaghetti with fresh Manila clams, dry white wine, garlic, chili flakes, and fresh flat-leaf parsley.",
+    "price": "$32",
+    "image": "https://images.unsplash.com/photo-1552611052-33e04de081de?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Châteaubriand for Two",
+    "category": "Main Courses",
+    "description": "400g premium center-cut beef tenderloin, Bordelaise reduction, roasted bone marrow, pommes purée, seasonal vegetables.",
+    "price": "$120",
+    "image": "https://images.unsplash.com/photo-1558030006-450675393462?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Rack of Lamb Provençal",
+    "category": "Main Courses",
+    "description": "Herb-crusted French rack of lamb, ratatouille niçoise, Dijon lamb jus, and pan-fried fingerling potatoes.",
+    "price": "$68",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Pan-Roasted Duck à l'Orange",
+    "category": "Main Courses",
+    "description": "Crispy duck breast, Grand Marnier orange reduction, confit duck leg, roasted fennel, pommes Sarladaise.",
+    "price": "$54",
+    "image": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Wagyu Striploin A5",
+    "category": "Main Courses",
+    "description": "Japanese A5 Wagyu NY striploin 200g, truffle butter baste, roasted garlic confit, shaved black truffle, Bordelaise.",
+    "price": "$145",
+    "image": "https://images.unsplash.com/photo-1546069901-ba9599a7e63c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Poulet Rôti aux Herbes",
+    "category": "Main Courses",
+    "description": "Free-range chicken supreme, truffle and herb butter under skin, jus gras, potato gratin dauphinois, wilted greens.",
+    "price": "$42",
+    "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c3?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Mushroom Wellington",
+    "category": "Main Courses",
+    "description": "Wild mushroom duxelles and chestnuts encased in golden puff pastry, red wine shallot reduction, truffle oil drizzle.",
+    "price": "$38",
+    "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Braised Short Rib",
+    "category": "Main Courses",
+    "description": "72-hour wine-braised bone-in short rib, creamed horseradish, celeriac purée, glazed root vegetables.",
+    "price": "$58",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Veal Piccata",
+    "category": "Main Courses",
+    "description": "Sautéed veal scaloppini, lemon-caper butter sauce, angel hair pasta, sun-dried tomato, fresh parsley.",
+    "price": "$46",
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Butter Poached Maine Lobster",
+    "category": "Seafood",
+    "description": "Whole Maine lobster tail, champagne beurre blanc, micro herbs, crispy leeks, sea beans, lemon caviar gel.",
+    "price": "$78",
+    "image": "https://images.unsplash.com/photo-1565680018434-b513d5e5fd47?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Pan-Seared Sea Bass",
+    "category": "Seafood",
+    "description": "Wild-caught Mediterranean sea bass, saffron-white wine sauce, fennel confit, Provençal tomatoes, crispy capers.",
+    "price": "$52",
+    "image": "https://images.unsplash.com/photo-1519708227418-c8fd9a32b7a2?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Grilled Turbot",
+    "category": "Seafood",
+    "description": "Whole wild turbot, lemon beurre blanc, grilled asparagus, baby capers, chervil, and Champagne vinegar reduction.",
+    "price": "$65",
+    "image": "https://images.unsplash.com/photo-1550304943-4f24f54ddde9?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "King Crab Leg",
+    "category": "Seafood",
+    "description": "Alaskan king crab legs, drawn clarified butter, lemon zest, micro dill, petite salad, and house-made remoulade.",
+    "price": "$88",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Moules Marinières",
+    "category": "Seafood",
+    "description": "1 kg fresh black mussels, white wine, shallots, garlic, fresh cream, and toasted sourdough for dipping.",
+    "price": "$36",
+    "image": "https://images.unsplash.com/photo-1611590027211-b954fd4b8e37?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Halibut en Papillote",
+    "category": "Seafood",
+    "description": "Pacific halibut baked in parchment with summer vegetables, lemon, white wine, and fresh herbs.",
+    "price": "$48",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Scallop & Caviar Plate",
+    "category": "Seafood",
+    "description": "Seared U-10 diver scallops, Ossetra caviar, cauliflower cream, truffle beurre blanc, chive oil.",
+    "price": "$72",
+    "image": "https://images.unsplash.com/photo-1553618551-fba689030290?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Gambas à l'Ajillo",
+    "category": "Seafood",
+    "description": "Wild Argentinian red prawns sautéed in olive oil, garlic, Guindilla chili, fino sherry, flat-leaf parsley.",
+    "price": "$42",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free", "Spicy"]
+  },
+  {
+    "name": "Swordfish Niçoise",
+    "category": "Seafood",
+    "description": "Grilled Mediterranean swordfish steak, haricots verts, fingerling potatoes, quail eggs, tapenade, lemon oil.",
+    "price": "$44",
+    "image": "https://images.unsplash.com/photo-1467003909585-2f8a72700288?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Tomahawk Prime Rib",
+    "category": "Grilled Dishes",
+    "description": "1.2kg bone-in 45-day dry-aged prime rib, truffle butter, Bordelaise reduction, roasted marrow, watercress salad.",
+    "price": "$135",
+    "image": "https://images.unsplash.com/photo-1504674900247-0877df9cc836?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Charcoal-Grilled Octopus",
+    "category": "Grilled Dishes",
+    "description": "Slow-braised then char-grilled octopus, smoked paprika butter, Israeli couscous, preserved lemon, herbs.",
+    "price": "$46",
+    "image": "https://images.unsplash.com/photo-1563379091339-03246963d96c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Grilled Lamb Chops",
+    "category": "Grilled Dishes",
+    "description": "Four Frenched lamb loin chops, rosemary-garlic marinade, mint chimichurri, grilled polenta, heirloom carrots.",
+    "price": "$58",
+    "image": "https://images.unsplash.com/photo-1432139555190-58524dae6a55?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Josper-Charred Chicken",
+    "category": "Grilled Dishes",
+    "description": "Spatchcocked free-range poussin, preserved lemon-herb butter, pomegranate glaze, smoked aubergine, green harissa.",
+    "price": "$38",
+    "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c3?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Grilled Wagyu Striploin",
+    "category": "Grilled Dishes",
+    "description": "200g Australian Wagyu MB7+ striploin, sautéed wild mushrooms, confit garlic, red wine jus, crispy shallots.",
+    "price": "$92",
+    "image": "https://images.unsplash.com/photo-1558030006-450675393462?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "BBQ Short Ribs",
+    "category": "Grilled Dishes",
+    "description": "St Louis-cut short ribs, 12-hour smoke, house Bourbon-hickory BBQ glaze, pickled jalapeño slaw, corn bread.",
+    "price": "$52",
+    "image": "https://images.unsplash.com/photo-1544025162-d76694265947?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Mixed Grill Platter",
+    "category": "Grilled Dishes",
+    "description": "A sharing feast: lamb chop, chicken thigh, beef kofta, shrimp skewer, grilled vegetables, two sauces, warm lavash.",
+    "price": "$72",
+    "image": "https://images.unsplash.com/photo-1565299585323-38d6b0865b47?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Grilled Corn-Fed Chicken",
+    "category": "Grilled Dishes",
+    "description": "Brined and wood-fired corn-fed chicken half, chimichurri verde, charred broccolini, crispy potatoes.",
+    "price": "$34",
+    "image": "https://images.unsplash.com/photo-1598103442097-8b74394b95c3?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Grilled Ibérico Pork Secreto",
+    "category": "Grilled Dishes",
+    "description": "Prized Ibérico pork secreto, sobrasada butter, manzanilla olive and almond picada, piquillo pepper purée.",
+    "price": "$48",
+    "image": "https://images.unsplash.com/photo-1534422298391-e4f8c172dddb?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Aurèle Club Royale",
+    "category": "Sandwiches",
+    "description": "Brioche-toasted three-decker: smoked turkey, house-cured bacon, oven-roasted tomato, avocado, aged cheddar, truffle aioli.",
+    "price": "$28",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Lobster Roll",
+    "category": "Sandwiches",
+    "description": "Cold Maine lobster salad, lemon-chive mayo, baby gem lettuce, in a toasted, buttered split-top New England roll.",
+    "price": "$42",
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Croque Monsieur Classique",
+    "category": "Sandwiches",
+    "description": "Paris ham, aged Gruyère, house-made béchamel, grilled sourdough, Dijon mustard, cornichons, dressed salad.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Caprese Focaccia",
+    "category": "Sandwiches",
+    "description": "House-made rosemary focaccia, hand-stretched mozzarella, heirloom tomatoes, basil pesto, balsamic glaze.",
+    "price": "$20",
+    "image": "https://images.unsplash.com/photo-1551782450-a2132b4ba21d?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Truffle Grilled Cheese",
+    "category": "Sandwiches",
+    "description": "Sourdough pain de mie, blend of Comté, Gruyère and Brie, truffle butter, caramelized onion, black truffle shavings.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1528735602780-2552fd46c7af?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Smoked Brisket Po'Boy",
+    "category": "Sandwiches",
+    "description": "12-hour wood-smoked beef brisket, pickled jalapeños, crispy tobacco onions, smoked cheddar, house chipotle mayo.",
+    "price": "$32",
+    "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Spicy"]
+  },
+  {
+    "name": "Chicken Milanese Sandwich",
+    "category": "Sandwiches",
+    "description": "Pounded chicken breast, golden breadcrumb crust, arugula, cherry tomato, shaved Parmigiano, lemon aioli, ciabatta.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1547592180-85f173990554?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": []
+  },
+  {
+    "name": "Avocado & Grilled Halloumi",
+    "category": "Sandwiches",
+    "description": "Charred halloumi, ripe avocado smash, pickled cucumber, pomegranate, rocket, and za'atar on warm flatbread.",
+    "price": "$22",
+    "image": "https://images.unsplash.com/photo-1481070414801-51fd732d7184?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Crispy Tuna Melt",
+    "category": "Sandwiches",
+    "description": "Seared albacore tuna, sharp cheddar, caramelized onion, Dijon, house dill pickles, melted on sourdough toast.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": []
+  },
+  {
+    "name": "Vanilla Bean Crème Brûlée",
+    "category": "Desserts",
+    "description": "Classic Tahitian vanilla bean custard, perfectly caramelized sugar crust, fresh seasonal berries, powdered sugar.",
+    "price": "$18",
+    "image": "https://images.unsplash.com/photo-1470124182917-cc6e71b22ecc?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Valrhona Chocolate Fondant",
+    "category": "Desserts",
+    "description": "Warm 70% Valrhona dark chocolate cake, molten center, Tahitian vanilla ice cream, candied hazelnuts, gold leaf.",
+    "price": "$22",
+    "image": "https://images.unsplash.com/photo-1541599188778-cdc73298e8fd?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Opera Gâteau",
+    "category": "Desserts",
+    "description": "Classic French opera cake: almond sponge joconde, coffee-kirsch syrup, Ganache, coffee buttercream, dark glaze.",
+    "price": "$20",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Tarte Tatin",
+    "category": "Desserts",
+    "description": "Upside-down caramelized Granny Smith and Pink Lady apple tart, buttery puff pastry, served warm with crème fraîche.",
+    "price": "$19",
+    "image": "https://images.unsplash.com/photo-1506459225024-1428097a7e18?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Lemon Tart Meringue",
+    "category": "Desserts",
+    "description": "Crisp pâte sablée, intensely citrus lemon curd, Italian torched meringue peaks, lemon zest oil, micro mint.",
+    "price": "$18",
+    "image": "https://images.unsplash.com/photo-1551504734-5ee1c4a1479b?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Mille-Feuille Royale",
+    "category": "Desserts",
+    "description": "Three layers of caramelized puff pastry, Madagascan vanilla diplomat cream, caramel fondant, feuilles d'or.",
+    "price": "$24",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Pistachio Soufflé",
+    "category": "Desserts",
+    "description": "Airy Sicilian pistachio soufflé, risen to perfection, served tableside with a cool raspberry sorbet center.",
+    "price": "$26",
+    "image": "https://images.unsplash.com/photo-1470124182917-cc6e71b22ecc?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Black Forest Gateau",
+    "category": "Desserts",
+    "description": "Dark chocolate sponge layered with Kirsch-drenched cherries, whipped cream, Griottines, chocolate shavings.",
+    "price": "$21",
+    "image": "https://images.unsplash.com/photo-1541599188778-cdc73298e8fd?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian"]
+  },
+  {
+    "name": "Exotic Fruit Pavlova",
+    "category": "Desserts",
+    "description": "Crispy meringue, Chantilly cream, mango, passion fruit, dragon fruit, and kiwi, drizzled with passion coulis.",
+    "price": "$20",
+    "image": "https://images.unsplash.com/photo-1565958011703-44f9829ba187?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Grand Café Espresso",
+    "category": "Hot Drinks",
+    "description": "Double ristretto extracted from our single-origin Yirgacheffe and Colombian blend, served with a dark chocolate.",
+    "price": "$7",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Flat White",
+    "category": "Hot Drinks",
+    "description": "Silky micro-foamed whole milk poured over a double ristretto, served in a warm ceramic cup.",
+    "price": "$8",
+    "image": "https://images.unsplash.com/photo-1497515114629-f71d768fd07c?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Signature Gold Latte",
+    "category": "Hot Drinks",
+    "description": "Single-origin espresso, steamed oat milk, hint of saffron and vanilla bean, finished with edible gold dust.",
+    "price": "$12",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Premium Darjeeling First Flush",
+    "category": "Hot Drinks",
+    "description": "Single-estate Darjeeling first flush, brewed at 80°C for 3 minutes, served in a warmed teapot with honey.",
+    "price": "$10",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "French Press Pour-Over",
+    "category": "Hot Drinks",
+    "description": "Single-origin Ethiopian Sidamo beans, freshly ground, slow pour-over extraction, served black or with cream.",
+    "price": "$9",
+    "image": "https://images.unsplash.com/photo-1495474472287-4d71bcdd2085?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Ceremonial Matcha",
+    "category": "Hot Drinks",
+    "description": "Grade A Japanese ceremonial matcha whisked with hot water, served with warm oat milk on the side.",
+    "price": "$11",
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Spiced Masala Chai",
+    "category": "Hot Drinks",
+    "description": "Assam tea brewed with fresh ginger, cardamom, cinnamon, black pepper, and star anise, served with warm milk.",
+    "price": "$9",
+    "image": "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Truffle Hot Chocolate",
+    "category": "Hot Drinks",
+    "description": "Valrhona 70% cacao melted into steamed whole milk, white truffle-infused cream, hand-rolled cocoa truffle.",
+    "price": "$14",
+    "image": "https://images.unsplash.com/photo-1542990253-0d0f5be5f0ed?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Vegetarian", "Gluten Free"]
+  },
+  {
+    "name": "Camomile & Honey Infusion",
+    "category": "Hot Drinks",
+    "description": "Fresh organic camomile flowers steeped in mineral water, served with acacia honey and a curl of lemon zest.",
+    "price": "$8",
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Sparkling Elderflower Lemonade",
+    "category": "Cold Drinks",
+    "description": "Hand-pressed lemon juice, house-made elderflower cordial, sparkling mineral water, fresh mint, cucumber ribbon.",
+    "price": "$9",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Iced Caramel Cortado",
+    "category": "Cold Drinks",
+    "description": "Double espresso over ice, salted caramel syrup, a whisper of oat milk, topped with cold foam and gold flakes.",
+    "price": "$11",
+    "image": "https://images.unsplash.com/photo-1541167760496-1628856ab772?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Gluten Free"]
+  },
+  {
+    "name": "Cold Brew Tonic",
+    "category": "Cold Drinks",
+    "description": "18-hour cold-brewed Ethiopian single-origin coffee, premium Indian tonic water, orange peel, single ice sphere.",
+    "price": "$10",
+    "image": "https://images.unsplash.com/photo-1562547256-2c5ee93b60b7?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Sparkling Mineral Selection",
+    "category": "Cold Drinks",
+    "description": "A curated selection: Perrier, San Pellegrino, or Gerolsteiner fine sparkling mineral water, served chilled.",
+    "price": "$6",
+    "image": "https://images.unsplash.com/photo-1548935576-ec2d5c4dec6b?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Iced Matcha Latte",
+    "category": "Cold Drinks",
+    "description": "Japanese ceremonial grade matcha, lightly sweetened, poured over ice with oat milk for a vibrant green sip.",
+    "price": "$10",
+    "image": "https://images.unsplash.com/photo-1536256263959-770b48d82b0a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "House-Made Ginger Beer",
+    "category": "Cold Drinks",
+    "description": "Naturally fermented ginger beer, bright and fiery, lightly effervescent, served with a wedge of lime.",
+    "price": "$8",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free", "Spicy"]
+  },
+  {
+    "name": "Virgin Cucumber Cooler",
+    "category": "Cold Drinks",
+    "description": "Pressed cucumber juice, lime, fresh mint, a hint of jalapeño, soda water, Himalayan pink salt rim.",
+    "price": "$9",
+    "image": "https://images.unsplash.com/photo-1562547256-2c5ee93b60b7?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Rose Hibiscus Iced Tea",
+    "category": "Cold Drinks",
+    "description": "Cold-steeped hibiscus and rose petal infusion, honey, lychee simple syrup, served over crushed ice.",
+    "price": "$9",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Valencia Orange Juice",
+    "category": "Fresh Juices",
+    "description": "Freshly hand-squeezed Valencia oranges, served immediately, no sugar added, the pure essence of the fruit.",
+    "price": "$9",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Green Goddess Detox",
+    "category": "Fresh Juices",
+    "description": "Cold-pressed kale, cucumber, celery, green apple, fresh ginger, lemon, and a hint of spirulina.",
+    "price": "$13",
+    "image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Tropical Sunrise Blend",
+    "category": "Fresh Juices",
+    "description": "Cold-pressed mango, pineapple, papaya, and passion fruit with a squeeze of lime and a pinch of chili.",
+    "price": "$12",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Beet & Carrot Elixir",
+    "category": "Fresh Juices",
+    "description": "Fresh beets, carrots, ginger, turmeric, and orange pressed together for a powerfully vibrant health boost.",
+    "price": "$11",
+    "image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Watermelon Mint Chill",
+    "category": "Fresh Juices",
+    "description": "Fresh-pressed watermelon juice, spearmint, a squeeze of lime, and a tiny pinch of Fleur de Sel.",
+    "price": "$10",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Strawberry Lemonade Press",
+    "category": "Fresh Juices",
+    "description": "Sun-ripened strawberries and freshly squeezed lemons blended to a vibrant, naturally sweet refreshing press.",
+    "price": "$10",
+    "image": "https://images.unsplash.com/photo-1600271886742-f049cd451bba?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Pineapple Celery Cooler",
+    "category": "Fresh Juices",
+    "description": "Cold-pressed pineapple, celery, coconut water, and fresh ginger — a uniquely refreshing and hydrating blend.",
+    "price": "$11",
+    "image": "https://images.unsplash.com/photo-1610970881699-44a5587cabec?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Pomegranate & Hibiscus",
+    "category": "Fresh Juices",
+    "description": "Fresh pomegranate arils cold-pressed with hibiscus, blood orange, and a squeeze of lime for a jewel-toned drink.",
+    "price": "$12",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Aurèle Signature Mocktail",
+    "category": "Mocktails",
+    "description": "House-made hibiscus shrub, yuzu citrus, St-Germain elderflower (non-alcoholic), sparkling water, rose petals.",
+    "price": "$14",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Virgin Passion Mojito",
+    "category": "Mocktails",
+    "description": "Muddled fresh mint and lime, passion fruit purée, ginger beer, crushed ice, and a dusting of gold sugar.",
+    "price": "$13",
+    "image": "https://images.unsplash.com/photo-1562547256-2c5ee93b60b7?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Golden Spice Paloma",
+    "category": "Mocktails",
+    "description": "Fresh grapefruit juice, turmeric-honey syrup, lime, premium ginger beer, a chili-lime salted rim.",
+    "price": "$13",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free", "Spicy"]
+  },
+  {
+    "name": "Blue Lagoon Spritz",
+    "category": "Mocktails",
+    "description": "Butterfly pea flower tea, lemon verbena, lychee syrup, sparkling mineral water — changes color as you sip.",
+    "price": "$14",
+    "image": "https://images.unsplash.com/photo-1548935576-ec2d5c4dec6b?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": true,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Rose Garden Fizz",
+    "category": "Mocktails",
+    "description": "Rose petal infusion, fresh strawberry, lychee, and a dash of angostura bitters, topped with soda water.",
+    "price": "$12",
+    "image": "https://images.unsplash.com/photo-1551538827-9c037cb4f32a?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Cucumber Basil Lemonade",
+    "category": "Mocktails",
+    "description": "Mudded fresh basil, pressed cucumber, lemon juice, lavender honey syrup, and sparkling mineral water.",
+    "price": "$11",
+    "image": "https://images.unsplash.com/photo-1562547256-2c5ee93b60b7?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Mango Chili Margarita",
+    "category": "Mocktails",
+    "description": "Blended fresh Ataulfo mango, lime juice, a hint of Tajín, agave nectar, and a chili-salt rim.",
+    "price": "$13",
+    "image": "https://images.unsplash.com/photo-1490645935967-10de6ba17061?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": true,
+    "tags": ["Vegan", "Gluten Free", "Spicy"]
+  },
+  {
+    "name": "Midnight Noir Spritz",
+    "category": "Mocktails",
+    "description": "Cold-pressed blackberry and blueberry, activated charcoal, lemon, agave, dramatic midnight sparkle garnish.",
+    "price": "$14",
+    "image": "https://images.unsplash.com/photo-1548935576-ec2d5c4dec6b?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  },
+  {
+    "name": "Tropical Pineapple Mint",
+    "category": "Mocktails",
+    "description": "Fresh-pressed pineapple, mint, coconut water, lime, soda, and a wedge of dehydrated pineapple.",
+    "price": "$12",
+    "image": "https://images.unsplash.com/photo-1562547256-2c5ee93b60b7?q=80&w=600&auto=format&fit=crop",
+    "chefRecommended": false,
+    "popular": false,
+    "tags": ["Vegan", "Gluten Free"]
+  }
+]
