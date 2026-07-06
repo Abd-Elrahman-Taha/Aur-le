@@ -1,5 +1,8 @@
 import React from 'react';
 import { useScrollReveal } from '../hooks/useScrollReveal';
+import { HiOutlineSparkles } from 'react-icons/hi2';
+import { GiFleurDeLys } from 'react-icons/gi';
+import { FiAward } from 'react-icons/fi';
 
 export default function About() {
   const containerRef = useScrollReveal();
@@ -15,12 +18,12 @@ export default function About() {
     {
       title: 'Our Mission',
       description: 'To transcend traditional dining by crafting bespoke, multisensory culinary events that unite art, science, and the purest natural ingredients.',
-      icon: '✨'
+      Icon: HiOutlineSparkles
     },
     {
       title: 'Why Aurèle',
       description: 'Every plate is an original composition. We design our flavors from the molecular level up, ensuring an unforgettable journey of taste.',
-      icon: '⚜️'
+      Icon: GiFleurDeLys
     }
   ];
 
@@ -34,8 +37,10 @@ export default function About() {
         
         {/* Title */}
         <div className="text-center scroll-reveal transition-all duration-700">
-          <span className="font-cinzel text-xs tracking-[0.3em] text-gold-500 uppercase block mb-2">
+          <span className="inline-flex items-center gap-2 font-cinzel text-xs tracking-[0.3em] text-gold-500 uppercase block mb-2">
+            <HiOutlineSparkles className="text-sm shrink-0" />
             The Aurèle Philosophy
+            <HiOutlineSparkles className="text-sm shrink-0" />
           </span>
           <h2 className="font-cinzel text-3xl md:text-5xl font-semibold tracking-wide text-cream">
             Our Story & Vision
@@ -59,21 +64,28 @@ export default function About() {
 
             {/* Mission & Why Choose Us Cards */}
             <div className="grid grid-cols-1 sm:grid-cols-2 gap-6 pt-2">
-              {pillars.map((pillar, idx) => (
-                <div
-                  key={pillar.title}
-                  className="scroll-reveal transition-all duration-700 glass p-6 rounded-2xl border border-gold-500/10 hover:border-gold-500/30 transition-all duration-300"
-                  style={{ transitionDelay: `${idx * 150}ms` }}
-                >
-                  <div className="text-2xl mb-3">{pillar.icon}</div>
-                  <h4 className="font-cinzel text-xs tracking-[0.2em] text-gold-500 uppercase font-semibold mb-2">
-                    {pillar.title}
-                  </h4>
-                  <p className="font-inter text-cream/60 text-xs leading-relaxed font-light">
-                    {pillar.description}
-                  </p>
-                </div>
-              ))}
+              {pillars.map((pillar, idx) => {
+                const { Icon } = pillar;
+                return (
+                  <div
+                    key={pillar.title}
+                    className="scroll-reveal transition-all duration-700 glass p-6 rounded-2xl border border-gold-500/10 hover:border-gold-500/30 transition-all duration-300 flex flex-col justify-between"
+                    style={{ transitionDelay: `${idx * 150}ms` }}
+                  >
+                    <div>
+                      <div className="text-gold-500 text-2xl mb-3 shrink-0">
+                        <Icon />
+                      </div>
+                      <h4 className="font-cinzel text-xs tracking-[0.2em] text-gold-500 uppercase font-semibold mb-2">
+                        {pillar.title}
+                      </h4>
+                      <p className="font-inter text-cream/60 text-xs leading-relaxed font-light">
+                        {pillar.description}
+                      </p>
+                    </div>
+                  </div>
+                );
+              })}
             </div>
           </div>
 
@@ -99,7 +111,7 @@ export default function About() {
             {/* Luxury Distinction Banner */}
             <div className="scroll-reveal transition-all duration-700 delay-400 glass-card p-6 rounded-2xl border border-gold-500/10 flex items-center gap-6">
               <div className="w-14 h-14 rounded-full border border-gold-500/25 flex items-center justify-center shrink-0">
-                <span className="font-cinzel text-gold-500 text-base font-bold">★</span>
+                <FiAward className="text-gold-500 text-xl shrink-0" />
               </div>
               <div className="text-left">
                 <h4 className="font-cinzel text-xs tracking-[0.2em] text-gold-500 uppercase font-semibold mb-1">
